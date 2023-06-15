@@ -1,0 +1,7 @@
+{
+    "jobs": [
+        { "title": "Web Developer", "id": 1, "details":"I am a web developer i code websites using Vue" },
+        { "title": "Web Designer", "id": 2, "details": "I am a web designer i design websites using Figma" },
+        { "title": "Webmaster", "id": 3, "details": "I am a web Master i oversee the overall development of web apps" }
+    ]
+}
